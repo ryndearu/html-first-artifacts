@@ -1,0 +1,12 @@
+{
+  "name": "html-first-artifacts",
+  "owner": { "name": "ryndearu", "url": "https://github.com/ryndearu" },
+  "plugins": [
+    {
+      "name": "html-first-artifacts",
+      "description": "Create standalone HTML-first artifacts for planning, code review, prototyping, reports, research, learning, and throwaway editing tools.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
